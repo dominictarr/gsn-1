@@ -22,7 +22,6 @@ export interface VersionInfo {
   canceled: boolean
 }
 
-
 export class VersionOracle {
   oracle: Contract
   web3: Web3
